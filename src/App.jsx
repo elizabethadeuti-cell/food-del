@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import Cart from "./pages/Cart/Cart";
-import PlaceOrder from "./pages/placeOrder/placeOrder";
+import PlaceOrder from "./pages/placeOrder/placeOrder.jsx";
 import Login from "./components/Login/Login";
 import { useAuth } from "./Context/AuthContext";
 
